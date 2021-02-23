@@ -74,7 +74,7 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'pgsql:host=localhost;port=5433;dbname=db_blog;user=postgres;password=Adisty19',
+	'dsn'	=> 'pgsql:host=localhost;port=5432;dbname=db_blog;user=postgres;password=Adisty19',
 	'hostname' => 'localhost',
 	'username' => 'postgres',
 	'password' => 'Adisty19',
